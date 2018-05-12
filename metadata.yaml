@@ -1,0 +1,38 @@
+_repo: Mosada--A-dramatic-poem_33430
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Yeats, Jack Butler
+    aliases:
+    - Yeats, Jack B.
+    - Yeats, John Butler
+    birthdate: 1871
+    deathdate: 1957
+    gutenberg_agent_id: '35523'
+    url: http://www.gutenberg.org/2009/agents/35523
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+description: ''
+gutenberg_issued: '2010-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PR'
+title: 'Mosada: A dramatic poem'
+url: http://www.gutenberg.org/ebooks/33430
